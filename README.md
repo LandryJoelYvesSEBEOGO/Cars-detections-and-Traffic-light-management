@@ -1,4 +1,4 @@
-## General Introduction
+## Cars-detections-and-Traffic-light-management
 École Centrale Casablanca prepares future leaders by immersing them in concrete projects that confront them with current and future economic challenges. By focusing on advanced technologies, students develop innovative solutions to address contemporary issues.
 
 The "Learning By Doing" project perfectly illustrates this educational approach. It is a collaborative work where students, supervised by a tutor, design an ambitious project around the theme of the smart city in Africa. This third edition focuses on smart solutions for urban traffic management. The project spans two semesters, allowing students to develop their skills in project management, applied research, and prototyping.
