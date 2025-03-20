@@ -4,7 +4,7 @@
 L'École Centrale Casablanca prépare les futurs leaders en les immergeant dans des projets concrets qui les confrontent aux défis économiques actuels et futurs. En mettant l'accent sur les technologies de pointe, les étudiants développent des solutions innovantes pour résoudre les problématiques contemporaines.
 
 Le projet "Learning By Doing" illustre parfaitement cette approche pédagogique. Il s'agit d'un travail collaboratif où les étudiants, encadrés par un tuteur, conçoivent un projet ambitieux autour du thème de la ville intelligente en Afrique. Cette troisième édition se concentre sur les solutions intelligentes pour la gestion du trafic urbain. Le projet s'étale sur deux semestres et permet aux étudiants de développer leurs compétences en gestion de projet, en recherche appliquée et en prototypage.
-
+ <img src="rapport PLBD.pdf" alt="Texte alternatif" width="1000">
 ## Présentation de l’Idée
 ### Problématique
 Les embouteillages sont un problème récurrent qui impacte significativement la mobilité urbaine. Qu'ils soient causés par des accidents, une mauvaise gestion des feux de signalisation ou une infrastructure routière inefficace, ces ralentissements engendrent des pertes de temps considérables, une consommation excessive de carburant et une augmentation des émissions de gaz à effet de serre.
